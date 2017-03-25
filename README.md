@@ -1,6 +1,6 @@
 # Just Tablets
 
-Back in 2012 I've created a Dutch tablet comparison website called Telbat (tablet in reverse), later I've changed the name to Just Tablets. The porpuse was to experiment with Icecat and earn money from affiliate marketing, sadly that didn't work out. The website also ran some time on vergelijken.tablet.nl as a pilot. Until somewhere in 2016 the website was running on justtablets.nl. You can still see it with the Way Back Machine (click on the screenshot).
+Back in 2012 I've created a Dutch tablet comparison website called Telbat (tablet in reverse), later I've changed the name to Just Tablets. The purpose rpuse was to experiment with Icecat and earn money from affiliate marketing, sadly that didn't work out. The website also ran some time on vergelijken.tablet.nl as a pilot. Until somewhere in 2016 the website was running on justtablets.nl. You can still see it with the Way Back Machine (click on the screenshot).
 
 [![Just Tablets](screenshot.png)](https://web.archive.org/web/20160311111055/http://justtablets.nl/)
 
@@ -8,7 +8,7 @@ The whole comparison part is inspired by the [Tweakers Pricewatch](https://tweak
 
 ## Why do you share this?
 
-The project is abandoned by me, so maybe someone is interested in it, especially the Icecat integration part. Fork it and build something great! I did my very best back then but when I look at it now, it's not that well written. But hey, everyone started somewhere right? And look at the Wordpress code, it can always be worse. You can find English comments almost everywhere in the code, so it's readable.
+The project is abandoned by me, so maybe someone is interested in it, especially the Icecat integration part. Fork it and build something great! I did my very best back than but when I look at it now, it's not that well written. But hey, everyone started somewhere right? And look at the Wordpress code, it can always be worse. You can find English comments almost everywhere in the code, so it's readable.
 
 ## Technical information
 
