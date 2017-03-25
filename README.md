@@ -1,6 +1,6 @@
 # Just Tablets
 
-Back in 2012 I've created a Dutch tablet comparison website called Telbat (tablet in reverse), later I've changed the name to Just Tablets. The purpose rpuse was to experiment with Icecat and earn money from affiliate marketing, sadly that didn't work out. The website also ran some time on vergelijken.tablet.nl as a pilot. Until somewhere in 2016 the website was running on justtablets.nl. You can still see it with the Way Back Machine (click on the screenshot).
+Back in 2012 I've created a Dutch tablet comparison website called Telbat (tablet in reverse), later I've changed the name to Just Tablets. The purpose was to experiment with Icecat and earn money from affiliate marketing, sadly that didn't work out. The website also ran some time on vergelijken.tablet.nl as a pilot. Until somewhere in 2016 the website was running on justtablets.nl. You can still see it with the Way Back Machine (click on the screenshot).
 
 [![Just Tablets](screenshot.png)](https://web.archive.org/web/20160311111055/http://justtablets.nl/)
 
