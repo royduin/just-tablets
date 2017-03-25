@@ -6,7 +6,7 @@ The whole comparison part is inspired by the [Tweakers Pricewatch](https://tweak
 
 ## Why do you share this?
 
-The project is abandoned by me, so maybe someone is interested in it, especially the Icecat integration part. Fork it and build something great! I did my very best back then but when I look at it now, it's the most uggly code I've ever written. But hey, everyone started somewhere right?
+The project is abandoned by me, so maybe someone is interested in it, especially the Icecat integration part. Fork it and build something great! I did my very best back then but when I look at it now, it's not that well written. But hey, everyone started somewhere right? And look at the Wordpress code, it can always be worse. You can find English comments almost everywhere in the code, so it's readable.
 
 ## Technical information
 
