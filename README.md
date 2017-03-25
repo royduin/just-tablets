@@ -1,6 +1,8 @@
 # Just Tablets
 
-Back in 2012 I've created a Dutch tablet comparison website called Telbat (tablet in reverse), later I've changed the name to Just Tablets. The website also ran some time on vergelijken.tablet.nl as a pilot. Until somewhere in 2016 the website was running on justtablets.nl
+Back in 2012 I've created a Dutch tablet comparison website called Telbat (tablet in reverse), later I've changed the name to Just Tablets. The website also ran some time on vergelijken.tablet.nl as a pilot. Until somewhere in 2016 the website was running on justtablets.nl. You can still see it with the Way Back Machine.
+
+https://web.archive.org/web/20160311111055/http://justtablets.nl/
 
 The whole comparison part is inspired by the [Tweakers Pricewatch](https://tweakers.net/categorie/822/tablets/producten/) and I'm getting the product information from [Icecat](http://icecat.nl/)
 
